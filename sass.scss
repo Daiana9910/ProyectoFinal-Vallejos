@@ -171,9 +171,9 @@ menu button:hover {
   transform: scale(1.1);
 }
 
-/*responsive de btn y menu esta abajo de todo*/
 
-/*LOCURAAAAAAAAA*/
+
+
 
 /* NAVBAR MODO MOBILE */
 
@@ -223,7 +223,7 @@ menu button:hover {
   font-size: 65px;
 }
 
-/*LOCURAAAAAAAAAA*/
+
 
 /*  FIN DE APLICANDO OPEN AND CLOSE */
 
@@ -268,7 +268,7 @@ li {
 
 
 
-/* FINAL DEL CSS DEL TITULO, PARRAFO Y SEÑORA FELIZ - CUERPO DE IMAGEN */
+
 
 /* COMIENZO DEL CSS DEL SLIDER */
 
@@ -296,10 +296,10 @@ li {
 
 /* COMIENZO DE CSS DE CARTA */
 .index-post {
-  width: 1124px;
+  width: 80%;
   transition: all 1.5s;
-  height: 364px;
-  overflow: hidden;
+  height: auto;
+  overflow-y: scroll;
   margin: auto;
   display: block;
   margin-top: 10%;
@@ -317,7 +317,6 @@ li {
 .contener {
   width: 240px;
   height: 320px;
-  /* background: rgb(233, 134, 14); */
   background-color: white;
   margin: 20px;
   display: flex;
@@ -354,13 +353,13 @@ li {
   align-items: center;
   height: 110px;
   padding: 10px 20px;
-  /* background-color: red; */
+  
 }
 
 .meta-contener .title {
   padding: 0;
   margin: 10px 0;
- /*  color: blue; */
+
   font-size: 22px;
   color: red;
 }
@@ -498,6 +497,7 @@ p {
   display: flex;
   justify-content: center;
   margin-top: 20px;
+  
 }
 
 .redes-sociales {
